@@ -1,0 +1,15 @@
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\obj\Debug\net6.0\QuanLyBenhNhan.csproj.AssemblyReference.cache
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\obj\Debug\net6.0\QuanLyBenhNhan.GeneratedMSBuildEditorConfig.editorconfig
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\obj\Debug\net6.0\QuanLyBenhNhan.AssemblyInfoInputs.cache
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\obj\Debug\net6.0\QuanLyBenhNhan.AssemblyInfo.cs
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\obj\Debug\net6.0\QuanLyBenhNhan.csproj.CoreCompileInputs.cache
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\bin\Debug\net6.0\QuanLyBenhNhan.exe
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\bin\Debug\net6.0\QuanLyBenhNhan.deps.json
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\bin\Debug\net6.0\QuanLyBenhNhan.runtimeconfig.json
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\bin\Debug\net6.0\QuanLyBenhNhan.dll
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\bin\Debug\net6.0\QuanLyBenhNhan.pdb
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\obj\Debug\net6.0\QuanLyBenhNhan.dll
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\obj\Debug\net6.0\refint\QuanLyBenhNhan.dll
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\obj\Debug\net6.0\QuanLyBenhNhan.pdb
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\obj\Debug\net6.0\QuanLyBenhNhan.genruntimeconfig.cache
+E:\laptrinhungdung_cs464\QuanLyBenhNhan\obj\Debug\net6.0\ref\QuanLyBenhNhan.dll
